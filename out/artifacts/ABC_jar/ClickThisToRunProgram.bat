@@ -1,0 +1,1 @@
+java -jar ABC.jar .\input\input_data.txt
